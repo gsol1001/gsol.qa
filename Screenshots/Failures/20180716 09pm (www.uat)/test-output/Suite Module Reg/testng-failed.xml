@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite Module Reg]">
+  <listeners>
+    <listener class-name="utility.ScreenshotUtility"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Registration_0001(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0001Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0001(failed) -->
+  <test name="Registration_0002(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0002Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0002(failed) -->
+  <test name="Registration_0003(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="Registration_0003Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0003(failed) -->
+  <test name="Registration_0004(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="Registration_0004Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0004(failed) -->
+  <test name="Registration_0005(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="Registration_0005Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0005(failed) -->
+  <test name="Registration_0006(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="Registration_0006Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0006(failed) -->
+  <test name="Registration_0007(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="Registration_0007Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0007(failed) -->
+  <test name="Registration_0008(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0008Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0008(failed) -->
+  <test name="Registration_0009(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0009Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0009(failed) -->
+  <test name="Registration_0010(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="Registration_0010Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0010(failed) -->
+  <test name="Registration_0012(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0012Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0012(failed) -->
+  <test name="Registration_0013(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0013Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0013(failed) -->
+  <test name="Registration_0014(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="Registration_0014Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0014(failed) -->
+  <test name="Registration_0015(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="Registration_0015Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+    </classes>
+  </test> <!-- Registration_0015(failed) -->
+  <test name="Registration_0016(failed)">
+    <classes>
+      <class name="testCases.ModuleReg.Registration_0013">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0013 -->
+      <class name="testCases.ModuleReg.Registration_0008">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0008 -->
+      <class name="testCases.ModuleReg.Registration_0014">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0014 -->
+      <class name="testCases.ModuleReg.Registration_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0004 -->
+      <class name="testCases.ModuleReg.Registration_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0002 -->
+      <class name="testCases.ModuleReg.Registration_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0009 -->
+      <class name="testCases.ModuleReg.Registration_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0003 -->
+      <class name="testCases.ModuleReg.Registration_0010">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0010 -->
+      <class name="testCases.ModuleReg.Registration_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0005 -->
+      <class name="testCases.ModuleReg.Registration_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0001 -->
+      <class name="testCases.ModuleReg.Registration_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0006 -->
+      <class name="testCases.ModuleReg.Registration_0007">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0007 -->
+      <class name="testCases.ModuleReg.Registration_0011">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0011 -->
+      <class name="testCases.ModuleReg.Registration_0016">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="Registration_0016Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0016 -->
+      <class name="testCases.ModuleReg.Registration_0012">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0012 -->
+      <class name="testCases.ModuleReg.Registration_0015">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleReg.Registration_0015 -->
+    </classes>
+  </test> <!-- Registration_0016(failed) -->
+</suite> <!-- Failed suite [Suite Module Reg] -->

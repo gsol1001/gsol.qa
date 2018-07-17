@@ -1,0 +1,155 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module User Account">
+
+<!-- Add more test cases In this suite. -->
+
+	<test name = "ForgetPassword_0001">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.ForgetPassword_0001" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "ForgetPassword_0002">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.ForgetPassword_0002" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "ForgetPassword_0003">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.ForgetPassword_0003" ></class>  
+	    </classes>
+	</test>
+				
+	<test name = "ForgetPassword_0004">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.ForgetPassword_0004" ></class>  
+	    </classes>
+	</test>
+	
+		
+	<test name = "Login_0001">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0001" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "Login_0002">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0002" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "Login_0003">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0003" ></class>  
+	    </classes>
+	</test>
+					
+	<test name = "Login_0004">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0004" ></class>  
+	    </classes>
+	</test>
+				
+	<test name = "Login_0005">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0005" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "Login_0008">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0008" ></class>  
+	    </classes>
+	</test>
+				
+	<test name = "Login_0009">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0009" ></class>  
+	    </classes>
+	</test>
+					
+	<test name = "Login_0010">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.Login_0010" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<test name = "RFI_BuyerProfile_0001">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFI_BuyerProfile_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_BuyerProfile_0002">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFI_BuyerProfile_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_BuyerProfile_0003">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFI_BuyerProfile_0003" ></class>  
+	    </classes>
+	</test>			
+				
+	<test name = "RFI_BuyerProfile_0004">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFI_BuyerProfile_0004" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_BuyerProfile_0005">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFI_BuyerProfile_0005" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_BuyerProfile_0006">
+		<classes>
+			<class name = "testCases.ModuleUserAcc.RFI_BuyerProfile_0006" ></class>
+		</classes>
+	</test>
+			
+	<test name = "RFS_BuyerProfile_0001">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFS_BuyerProfile_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFS_BuyerProfile_0002">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFS_BuyerProfile_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFS_BuyerProfile_0003">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFS_BuyerProfile_0003" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "RFS_BuyerProfile_0004">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFS_BuyerProfile_0004" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFS_BuyerProfile_0005">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.RFS_BuyerProfile_0005" ></class>  
+	    </classes>
+	</test>
+				
+	<test name = "UserProfile_0001">
+	    <classes>
+	        <class name = "testCases.ModuleUserAcc.UserProfile_0001" ></class>  
+	    </classes>
+	</test>
+					
+</suite>
+
+

@@ -1,0 +1,45 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module Bug">
+
+<!-- Add more test cases In this suite. -->
+
+	<test name = "ProductionBug_0001">
+		<classes>
+			<class name = "testCases.ModuleBug.ProductionBug_0001" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductionBug_0002">
+		<classes>
+			<class name = "testCases.ModuleBug.ProductionBug_0002" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductionBug_0003">
+		<classes>
+			<class name = "testCases.ModuleBug.ProductionBug_0003" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductionBug_0004">
+	    <classes>
+	        <class name = "testCases.ModuleBug.ProductionBug_0004" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "ProductionBug_0005">
+		<classes>
+			<class name = "testCases.ModuleBug.ProductionBug_0005" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductionBug_0006">
+	    <classes>
+	        <class name = "testCases.ModuleBug.ProductionBug_0006" ></class>  
+	    </classes>
+	</test>
+
+</suite>
+
+

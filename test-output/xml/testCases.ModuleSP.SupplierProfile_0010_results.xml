@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SupplierProfile_0010"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="5"
+           time="0.000">
+  <properties />
+  
+            <testcase name="checkCaseToRun" time="0.0" classname="testCases.ModuleSP.SupplierProfile_0010">
+          <skipped />
+    </testcase>
+            <testcase name="beforeMethod" time="0.0" classname="testCases.ModuleSP.SupplierProfile_0010">
+          <skipped />
+    </testcase>
+            <testcase name="closeBrowser" time="0.0" classname="testCases.ModuleSP.SupplierProfile_0010">
+          <skipped />
+    </testcase>
+            <testcase name="reporterDataResults" time="0.0" classname="testCases.ModuleSP.SupplierProfile_0010">
+          <skipped />
+    </testcase>
+            <testcase name="SupplierProfile_0010Test" time="0.0" classname="testCases.ModuleSP.SupplierProfile_0010">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

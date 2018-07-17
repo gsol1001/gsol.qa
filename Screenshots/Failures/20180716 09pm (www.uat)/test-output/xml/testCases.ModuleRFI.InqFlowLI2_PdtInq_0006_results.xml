@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InqFlowLI2_PdtInq_0006"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="109.010">
+  <properties />
+  
+  
+            <testcase name="InqFlowLI2_PdtInq_0006Test" time="109.010" classname="testCases.ModuleRFI.InqFlowLI2_PdtInq_0006" />
+      
+</testsuite>

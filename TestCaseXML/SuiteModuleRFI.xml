@@ -1,0 +1,585 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module RFI">
+
+<!-- Add more test cases In this suite. -->
+
+<!-- Start of RFI Flow Logged-in User. -->
+
+	<test name = "InqFlowLI1_PdtInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0001" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "InqFlowLI1_PdtInq_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0005">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0005" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0006">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0006" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0007">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0007" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0008">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0008" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0009">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0009" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0010">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0010" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0011">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0011" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0012">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0012" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_PdtInq_0013">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0013" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_SuppInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_SuppInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_SuppInq_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_SuppInq_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_SuppInq_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_SuppInq_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_SuppInq_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_SuppInq_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI1_LoginTest">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI1_LoginTest" ></class>  
+	    </classes>
+	</test>
+
+<!-- End of RFI Flow Logged-in User. -->
+
+
+<!-- Start of RFI Flow Login on Form. -->
+
+	<test name = "InqFlowLI2_PdtInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0005">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0005" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0006">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0006" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0007">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0007" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "InqFlowLI2_PdtInq_0008">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0008" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0009">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0009" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0010">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0010" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0011">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0011" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0012">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0012" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_PdtInq_0013">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_PdtInq_0013" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_SuppInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_SuppInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_SuppInq_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_SuppInq_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_SuppInq_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_SuppInq_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_SuppInq_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_SuppInq_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI2_LoginTest">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI2_LoginTest" ></class>  
+	    </classes>
+	</test>
+
+<!-- End of RFI Flow Login on Form. -->
+
+
+<!-- Start of RFI Flow Post Login.  -->
+
+	<test name = "InqFlowLI3_PdtInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0002">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0002" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0003">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0003" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0004">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0004" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0005">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0005" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0006">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0006" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0007">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0007" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0008">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0008" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0009">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0009" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0010">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0010" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0011">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0011" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0012">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0012" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_PdtInq_0013">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI3_PdtInq_0013" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowLI3_SuppInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI3_SuppInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI3_SuppInq_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI3_SuppInq_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI3_SuppInq_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI3_SuppInq_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowLI3_SuppInq_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowLI3_SuppInq_0004" ></class>  
+	    </classes>
+	</test>
+
+<!-- End of RFI Flow Post Login.    -->
+
+
+<!-- Start of RFI Flow New User.    -->
+	
+	<test name = "InqFlowNL1_PdtInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0002">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0002" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0003">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0003" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0004">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0004" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0005">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0005" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0006">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0006" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0007">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0007" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0008">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0008" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0009">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0009" ></class>
+		</classes>
+	</test>
+	
+	<test name = "InqFlowNL1_PdtInq_0010">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0010" ></class>
+		</classes>
+	</test>
+			
+	<test name = "InqFlowNL1_PdtInq_0011">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowNL1_PdtInq_0011" ></class>
+		</classes>
+	</test>
+	
+
+	<test name = "InqFlowNL1_SuppInq_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowNL1_SuppInq_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowNL1_SuppInq_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowNL1_SuppInq_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowNL1_SuppInq_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowNL1_SuppInq_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "InqFlowNL1_SuppInq_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.InqFlowNL1_SuppInq_0004" ></class>  
+	    </classes>
+	</test>
+	
+<!-- End of RFI Flow New User.      -->
+
+	<test name = "RFS_Flow_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFS_Flow_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFS_Flow_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFS_Flow_0002" ></class>  
+	    </classes>
+	</test>
+	
+		
+	<test name = "RFI_Form_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_Form_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_Form_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_Form_0004">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0004" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0005">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0005" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0006">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0006" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0007">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0007" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0008">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0008" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0009">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0009" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0010">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0010" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "RFI_Form_0011">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0011" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_InqBasket_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_InqBasket_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_InqBasket_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_InqBasket_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_InqBasket_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_InqBasket_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "RFI_Attachment_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Attachment_0001" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "RFS_Form_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFS_Form_0001" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<test name = "RFI_PALanding_0001">
+		<classes>
+			<class name = "testCases.ModuleRFI.RFI_PALanding_0001" ></class>
+		</classes>
+	</test>
+	
+	<test name = "RFI_PALanding_0002">
+		<classes>
+			<class name = "testCases.ModuleRFI.RFI_PALanding_0002" ></class>
+		</classes>
+	</test>
+	
+	<test name = "RFI_PALanding_0003">
+		<classes>
+			<class name = "testCases.ModuleRFI.RFI_PALanding_0003" ></class>
+		</classes>
+	</test>
+
+	<test name = "RFI_RequestLatestPrice_0001">
+		<classes>
+			<class name = "testCases.ModuleRFI.RFI_RequestLatestPrice_0001" ></class>
+		</classes>
+	</test>
+	
+	<test name = "RFI_RequestLatestPrice_0002">
+		<classes>
+			<class name = "testCases.ModuleRFI.RFI_RequestLatestPrice_0002" ></class>
+		</classes>
+	</test>	
+	
+	<test name = "RFI_RequestLatestPrice_0003">
+		<classes>
+			<class name = "testCases.ModuleRFI.RFI_RequestLatestPrice_0003" ></class>
+		</classes>
+	</test>
+	
+<!-- End of RFI Module.             -->
+
+</suite>
+
+

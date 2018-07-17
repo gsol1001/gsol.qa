@@ -1,0 +1,232 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module Adhoc">
+
+<!-- Add more test cases In this suite. -->
+<!-- Start of UI Refactor. -->
+
+<!-- Start of GSOL PP page -->	
+		
+	<!-- Start of Inq Now. -->	
+	<test name = "InqFlowLI1_PdtInq_0010">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0010"></class>
+		</classes>
+	</test>
+			
+	<test name = "InqFlowLI1_PdtInq_0011">
+		<classes>
+			<class name = "testCases.ModuleRFI.InqFlowLI1_PdtInq_0011"></class>
+		</classes>
+	</test>		
+			
+			
+	<test name = "ProductProfile_0001">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0001" ></class>  
+	    </classes>
+	</test>
+					
+	<test name = "ProductProfile_0002">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0002" ></class>  
+	    </classes>
+	</test>
+					
+	<test name = "ProductProfile_0003">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0003" ></class>  
+	    </classes>
+	</test>
+					
+	<test name = "ProductProfile_0004">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<!-- Start of PA Enhanced Entrance link. -->					
+	<test name = "PA_LiteSignup_0027">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0027" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductProfile_0005">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0005" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductProfile_0006">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0006" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductProfile_0007">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0007" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<!-- Start of SA. -->						
+	<test name = "SupplierAlert_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSA.SupplierAlert_0001" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "ProductProfile_0009">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0009" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "ProductProfile_0010">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0010" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "ProductProfile_0011">
+	    <classes>
+	        <class name = "testCases.ModulePP.ProductProfile_0011" ></class>  
+	    </classes>
+	</test>
+	
+	<!-- Start of RFS. -->	
+	<test name = "RFS_Flow_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFS_Flow_0001" ></class>  
+	    </classes>
+	</test>
+		
+	<!-- Start of Request Latest Price. -->		
+	<test name = "RFI_RequestLatestPrice_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_RequestLatestPrice_0001" ></class>  
+	    </classes>
+	</test>
+				
+	<test name = "RFI_RequestLatestPrice_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_RequestLatestPrice_0002" ></class>  
+	    </classes>
+	</test>	
+		
+	<test name = "RFI_RequestLatestPrice_0003">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_RequestLatestPrice_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<!-- Start of RFI Static Form -->		
+	<test name = "RFI_Form_0002">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<!-- Start of RFI Floating window -->	
+	<test name = "RFI_Form_0008">
+	    <classes>
+	        <class name = "testCases.ModuleRFI.RFI_Form_0008" ></class>  
+	    </classes>
+	</test>
+	
+<!-- End of GSOL PP page -->
+
+<!-- Start of Supplier MWS page -->	
+	<!-- Start of Left Nav Inq Now -->	
+	<test name = "SupplierProfile_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0001" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "SupplierProfile_0002">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0002" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "SupplierProfile_0003">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0003" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "SupplierProfile_0004">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<!-- Start of Left Nav Follow Me -->
+		
+	<test name = "SupplierAlert_0002">
+	    <classes>
+	        <class name = "testCases.ModuleSA.SupplierAlert_0002" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "SupplierAlert_0003">
+	    <classes>
+	        <class name = "testCases.ModuleSA.SupplierAlert_0003" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "SupplierAlert_0004">
+	    <classes>
+	        <class name = "testCases.ModuleSA.SupplierAlert_0004" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "SupplierAlert_0005">
+	    <classes>
+	        <class name = "testCases.ModuleSA.SupplierAlert_0005" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "SupplierAlert_0006">
+	    <classes>
+	        <class name = "testCases.ModuleSA.SupplierAlert_0006" ></class>  
+	    </classes>
+	</test>
+
+	<!-- Start of RFI static form -->					
+	<test name = "SupplierProfile_0015">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0015" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "SupplierProfile_0016">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0016" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "SupplierProfile_0017">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0017" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "SupplierProfile_0018">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0018" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "SupplierProfile_0019">
+	    <classes>
+	        <class name = "testCases.ModuleSP.SupplierProfile_0019" ></class>  
+	    </classes>
+	</test>
+	
+</suite>
+
+

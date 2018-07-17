@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Login_0009"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="34.511">
+  <properties />
+  
+  
+            <testcase name="Login_0009Test" time="34.511" classname="testCases.ModuleUserAcc.Login_0009" />
+      
+</testsuite>

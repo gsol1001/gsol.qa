@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite Module Bug]">
+  <listeners>
+    <listener class-name="utility.ScreenshotUtility"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="ProductionBug_0001(failed)">
+    <classes>
+      <class name="testCases.ModuleBug.ProductionBug_0001">
+        <methods>
+          <include name="ProductionBug_0001Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0001 -->
+      <class name="testCases.ModuleBug.ProductionBug_0006">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0006 -->
+      <class name="testCases.ModuleBug.ProductionBug_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0002 -->
+      <class name="testCases.ModuleBug.ProductionBug_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0004 -->
+      <class name="testCases.ModuleBug.ProductionBug_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0005 -->
+      <class name="testCases.ModuleBug.ProductionBug_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0003 -->
+    </classes>
+  </test> <!-- ProductionBug_0001(failed) -->
+  <test name="ProductionBug_0002(failed)">
+    <classes>
+      <class name="testCases.ModuleBug.ProductionBug_0006">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0006 -->
+      <class name="testCases.ModuleBug.ProductionBug_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0001 -->
+      <class name="testCases.ModuleBug.ProductionBug_0002">
+        <methods>
+          <include name="ProductionBug_0002Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0002 -->
+      <class name="testCases.ModuleBug.ProductionBug_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0004 -->
+      <class name="testCases.ModuleBug.ProductionBug_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0005 -->
+      <class name="testCases.ModuleBug.ProductionBug_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0003 -->
+    </classes>
+  </test> <!-- ProductionBug_0002(failed) -->
+  <test name="ProductionBug_0003(failed)">
+    <classes>
+      <class name="testCases.ModuleBug.ProductionBug_0006">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0006 -->
+      <class name="testCases.ModuleBug.ProductionBug_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0001 -->
+      <class name="testCases.ModuleBug.ProductionBug_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0002 -->
+      <class name="testCases.ModuleBug.ProductionBug_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0004 -->
+      <class name="testCases.ModuleBug.ProductionBug_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0005 -->
+      <class name="testCases.ModuleBug.ProductionBug_0003">
+        <methods>
+          <include name="ProductionBug_0003Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0003 -->
+    </classes>
+  </test> <!-- ProductionBug_0003(failed) -->
+  <test name="ProductionBug_0004(failed)">
+    <classes>
+      <class name="testCases.ModuleBug.ProductionBug_0006">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0006 -->
+      <class name="testCases.ModuleBug.ProductionBug_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0001 -->
+      <class name="testCases.ModuleBug.ProductionBug_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0002 -->
+      <class name="testCases.ModuleBug.ProductionBug_0004">
+        <methods>
+          <include name="ProductionBug_0004Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0004 -->
+      <class name="testCases.ModuleBug.ProductionBug_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0005 -->
+      <class name="testCases.ModuleBug.ProductionBug_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0003 -->
+    </classes>
+  </test> <!-- ProductionBug_0004(failed) -->
+  <test name="ProductionBug_0005(failed)">
+    <classes>
+      <class name="testCases.ModuleBug.ProductionBug_0006">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0006 -->
+      <class name="testCases.ModuleBug.ProductionBug_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0001 -->
+      <class name="testCases.ModuleBug.ProductionBug_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0002 -->
+      <class name="testCases.ModuleBug.ProductionBug_0005">
+        <methods>
+          <include name="ProductionBug_0005Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0005 -->
+      <class name="testCases.ModuleBug.ProductionBug_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0004 -->
+      <class name="testCases.ModuleBug.ProductionBug_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0003 -->
+    </classes>
+  </test> <!-- ProductionBug_0005(failed) -->
+  <test name="ProductionBug_0006(failed)">
+    <classes>
+      <class name="testCases.ModuleBug.ProductionBug_0006">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="ProductionBug_0006Test"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0006 -->
+      <class name="testCases.ModuleBug.ProductionBug_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0001 -->
+      <class name="testCases.ModuleBug.ProductionBug_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0002 -->
+      <class name="testCases.ModuleBug.ProductionBug_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0004 -->
+      <class name="testCases.ModuleBug.ProductionBug_0005">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0005 -->
+      <class name="testCases.ModuleBug.ProductionBug_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleBug.ProductionBug_0003 -->
+    </classes>
+  </test> <!-- ProductionBug_0006(failed) -->
+</suite> <!-- Failed suite [Suite Module Bug] -->

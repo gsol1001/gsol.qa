@@ -1,0 +1,128 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module PP">
+
+<!-- Add more test cases In this suite. -->
+
+	<test name = "ProductProfile_0001">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0001" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0002">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0002" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0003">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0003" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0004">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0004" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0005">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0005" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0006">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0006" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0007">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0007" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0008">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0008" ></class>
+		</classes>
+	</test>
+
+	<test name = "ProductProfile_0009">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0009" ></class>
+		</classes>
+	</test>
+	
+	<test name = "ProductProfile_0010">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0010" ></class>
+		</classes>
+	</test>
+		
+	<test name = "ProductProfile_0011">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0011" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0012">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0012" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0013">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0013" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0014">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0014" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0015">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0015" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0016">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0016" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0017">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0017" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0018">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0018" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0019">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0019" ></class>
+		</classes>
+	</test>
+			
+	<test name = "ProductProfile_0020">
+		<classes>
+			<class name = "testCases.ModulePP.ProductProfile_0020" ></class>
+		</classes>
+	</test>
+</suite>
+
+

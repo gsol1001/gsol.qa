@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite Module User Account]">
+  <listeners>
+    <listener class-name="utility.ScreenshotUtility"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Login_0010(failed)">
+    <classes>
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0003 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0003">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0003 -->
+      <class name="testCases.ModuleUserAcc.UserProfile_0001">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.UserProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0005">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0005 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0001">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0001 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0005">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0005 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.Login_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0002 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0004">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0004 -->
+      <class name="testCases.ModuleUserAcc.Login_0005">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0005 -->
+      <class name="testCases.ModuleUserAcc.Login_0008">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0008 -->
+      <class name="testCases.ModuleUserAcc.Login_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0003 -->
+      <class name="testCases.ModuleUserAcc.Login_0004">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0004 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0004 -->
+      <class name="testCases.ModuleUserAcc.Login_0010">
+        <methods>
+          <include name="Login_0010Test" invocation-numbers="0"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0010 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0002">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0002 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0002 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0004">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0004 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0002">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0002 -->
+      <class name="testCases.ModuleUserAcc.Login_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0009 -->
+      <class name="testCases.ModuleUserAcc.Login_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0001 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0003">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0003 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0006 -->
+    </classes>
+  </test> <!-- Login_0010(failed) -->
+  <test name="RFI_BuyerProfile_0006(failed)">
+    <classes>
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0003 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0003">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0003 -->
+      <class name="testCases.ModuleUserAcc.UserProfile_0001">
+        <methods>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.UserProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0005">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0005 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0001">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0001 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0005">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0005 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.Login_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0002 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0004">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0004 -->
+      <class name="testCases.ModuleUserAcc.Login_0005">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0005 -->
+      <class name="testCases.ModuleUserAcc.Login_0008">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0008 -->
+      <class name="testCases.ModuleUserAcc.Login_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0003 -->
+      <class name="testCases.ModuleUserAcc.Login_0004">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0004 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0004 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0002">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0002 -->
+      <class name="testCases.ModuleUserAcc.Login_0010">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0010 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0002 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0004">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0004 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0002">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0002 -->
+      <class name="testCases.ModuleUserAcc.Login_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0009 -->
+      <class name="testCases.ModuleUserAcc.Login_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0001 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0003">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0003 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="RFI_BuyerProfile_0006Test"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0006 -->
+    </classes>
+  </test> <!-- RFI_BuyerProfile_0006(failed) -->
+  <test name="UserProfile_0001(failed)">
+    <classes>
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0003 -->
+      <class name="testCases.ModuleUserAcc.UserProfile_0001">
+        <methods>
+          <include name="UserProfile_0001Test"/>
+          <include name="checkSuiteToRun"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.UserProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0003">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0003 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0005">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0005 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0001">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0001 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0005">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0005 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.Login_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0002 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0004">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0004 -->
+      <class name="testCases.ModuleUserAcc.Login_0005">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0005 -->
+      <class name="testCases.ModuleUserAcc.Login_0008">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0008 -->
+      <class name="testCases.ModuleUserAcc.Login_0003">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0003 -->
+      <class name="testCases.ModuleUserAcc.Login_0004">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0004 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0004">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0004 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0002">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0002 -->
+      <class name="testCases.ModuleUserAcc.Login_0010">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0010 -->
+      <class name="testCases.ModuleUserAcc.RFS_BuyerProfile_0002">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFS_BuyerProfile_0002 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0004">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0004 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0002">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0002 -->
+      <class name="testCases.ModuleUserAcc.Login_0009">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0009 -->
+      <class name="testCases.ModuleUserAcc.Login_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="reporterDataResults"/>
+          <include name="beforeMethod"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.Login_0001 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0001">
+        <methods>
+          <include name="checkCaseToRun"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="reporterDataResults"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0001 -->
+      <class name="testCases.ModuleUserAcc.ForgetPassword_0003">
+        <methods>
+          <include name="reporterDataResults"/>
+          <include name="closeBrowser"/>
+          <include name="beforeMethod"/>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.ForgetPassword_0003 -->
+      <class name="testCases.ModuleUserAcc.RFI_BuyerProfile_0006">
+        <methods>
+          <include name="checkCaseToRun"/>
+        </methods>
+      </class> <!-- testCases.ModuleUserAcc.RFI_BuyerProfile_0006 -->
+    </classes>
+  </test> <!-- UserProfile_0001(failed) -->
+</suite> <!-- Failed suite [Suite Module User Account] -->

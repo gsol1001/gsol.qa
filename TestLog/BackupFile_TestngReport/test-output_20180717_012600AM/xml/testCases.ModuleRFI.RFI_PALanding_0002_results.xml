@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RFI_PALanding_0002"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="63.012">
+  <properties />
+  
+  
+            <testcase name="RFI_PALanding_0002Test" time="63.012" classname="testCases.ModuleRFI.RFI_PALanding_0002" />
+      
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SupplierAlert_0010"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="333.977">
+  <properties />
+  
+  
+            <testcase name="SupplierAlert_0010Test" time="333.977" classname="testCases.ModuleSA.SupplierAlert_0010" />
+      
+</testsuite>

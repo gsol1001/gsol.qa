@@ -1,0 +1,404 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module PA">
+
+<!-- Add more test cases In this suite. -->
+
+<!-- Start of PA Edit Categories. -->
+
+	<test name = "PA_EditCategories_0001">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0001" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "PA_EditCategories_0002">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0003">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0003" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0004">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0005">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0005" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0006">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0006" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0007">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0007" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0008">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0008" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "PA_EditCategories_0009">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0009" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0010">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0010" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0011">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0011" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0012">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0012" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0013">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0013" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0014">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_EditCategories_0014" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0015">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0015"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0016">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0016"></class>
+		</classes>
+	</test>
+
+	<test name = "PA_EditCategories_0017">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0017"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0018">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0018"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0019">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0019"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0020">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0020"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0021">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0021"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0022">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0022"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0023">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0023"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0024">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0024"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_EditCategories_0025">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0025"></class>
+		</classes>
+	</test>
+		
+	<test name = "PA_EditCategories_0026">
+		<classes>
+			<class name = "testCases.ModulePA.PA_EditCategories_0026"></class>
+		</classes>
+	</test>
+	
+	
+	<!-- End of PA Edit Categories. -->
+	
+	<!-- Start of PA Homepage. -->
+	
+	<test name = "PA_Homepage_0001">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Homepage_0001" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "PA_Homepage_0002">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Homepage_0002" ></class>  
+	    </classes>
+	</test>
+	
+	<!-- End of PA Homepage.      -->
+						
+	<!-- Start of PA Lite Signup. -->
+							
+	<test name = "PA_LiteSignup_0001">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0001" ></class>  
+	    </classes>
+	</test>
+								
+	<test name = "PA_LiteSignup_0002">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0002" ></class>  
+	    </classes>
+	</test>
+										
+	<test name = "PA_LiteSignup_0003">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0003" ></class>  
+	    </classes>
+	</test>
+											
+	<test name = "PA_LiteSignup_0004">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0004" ></class>  
+	    </classes>
+	</test>
+											
+	<test name = "PA_LiteSignup_0005">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0005" ></class>  
+	    </classes>
+	</test>
+											
+	<test name = "PA_LiteSignup_0006">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0006" ></class>  
+	    </classes>
+	</test>
+											
+	<test name = "PA_LiteSignup_0007">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0007" ></class>  
+	    </classes>
+	</test>
+											
+	<test name = "PA_LiteSignup_0008">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0008" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0009">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0009" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0010">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0010" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0011">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0011" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0012">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0012" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0013">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0013" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "PA_LiteSignup_0014">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0014" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "PA_LiteSignup_0015">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0015" ></class>  
+	    </classes>
+	</test>
+			
+	<test name = "PA_LiteSignup_0016">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_LiteSignup_0016" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0017">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0017"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0018">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0018"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0019">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0019"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0020">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0020"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0021">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0021"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0022">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0022"></class>	
+		</classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0023">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0023"></class>	
+		</classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0024">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0024"></class>	
+		</classes>
+	</test>
+		
+	<test name = "PA_LiteSignup_0025">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0025"></class>	
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0026">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0026"></class>
+		</classes>
+	</test>
+	
+	<test name = "PA_LiteSignup_0027">
+		<classes>
+			<class name = "testCases.ModulePA.PA_LiteSignup_0027"></class>
+		</classes>
+	</test>	
+	
+	
+	<!-- End of PA Lite Signup. -->
+					
+	<!-- Start of PA Upgrade. -->	
+	
+	<test name = "PA_Upgrade_0001">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0001" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "PA_Upgrade_0002">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0002" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_Upgrade_0003">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0003" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_Upgrade_0004">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0004" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_Upgrade_0005">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0005" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_Upgrade_0006">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0006" ></class>  
+	    </classes>
+	</test>
+		
+	<test name = "PA_Upgrade_0007">
+	    <classes>
+	        <class name = "testCases.ModulePA.PA_Upgrade_0007" ></class>  
+	    </classes>
+	</test>
+	<!-- End of PA Upgrade. -->	
+								
+	<test name = "GetNotified_0001">
+	    <classes>
+	        <class name = "testCases.ModulePA.GetNotified_0001" ></class>  
+	    </classes>
+	</test>
+	
+</suite>
+
+

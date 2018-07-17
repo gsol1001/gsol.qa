@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InqFlowLI2_SuppInq_0002"
+           tests="1"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="21.064">
+  <properties />
+            <testcase name="InqFlowLI2_SuppInq_0002Test" time="21.064" classname="testCases.ModuleRFI.InqFlowLI2_SuppInq_0002">
+                <failure type="org.openqa.selenium.TimeoutException"
+                  message="Expected condition failed: waiting for title to be &quot;Global Sources - Supplier Search: office&quot;. Current title: &quot;Manufacturers &amp; Suppliers Directory | Global Sources&quot; (tried for 15 second(s) with 500 MILLISECONDS interval)
+Build info: version: &apos;unknown&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:43:45 -0700&apos;
+System info: host: &apos;C111400215M4232&apos;, ip: &apos;192.168.87.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 79f160cc-1d3e-4c8d-8aa1-8ee3361ae4e7"
+              >
+<![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for title to be "Global Sources - Supplier Search: office". Current title: "Manufacturers & Suppliers Directory | Global Sources" (tried for 15 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'C111400215M4232', ip: '192.168.87.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 79f160cc-1d3e-4c8d-8aa1-8ee3361ae4e7
+  org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+  org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:265)
+  pageObjects.SupplierListing_Page.check_supplierKWSPageIsDisplayed(SupplierListing_Page.java:81)
+  appModules.SupplierInquiry_Action.ExecuteSearchBySuppliers(SupplierInquiry_Action.java:48)
+  testCases.ModuleRFI.InqFlowLI2_SuppInq_0002.InqFlowLI2_SuppInq_0002Test(InqFlowLI2_SuppInq_0002.java:166)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+  java.lang.reflect.Method.invoke(Unknown Source)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+  org.testng.TestRunner.privateRun(TestRunner.java:756)
+  org.testng.TestRunner.run(TestRunner.java:610)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+  org.testng.SuiteRunner.run(SuiteRunner.java:289)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+  org.testng.TestNG.runSuites(TestNG.java:1133)
+  org.testng.TestNG.run(TestNG.java:1104)
+  org.testng.TestNG.privateMain(TestNG.java:1434)
+  org.testng.TestNG.main(TestNG.java:1403)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+  
+</testsuite>

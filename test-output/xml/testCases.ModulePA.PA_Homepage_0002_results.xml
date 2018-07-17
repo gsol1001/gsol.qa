@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PA_Homepage_0002"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="57.855">
+  <properties />
+  
+  
+            <testcase name="PA_Homepage_0002Test" time="57.855" classname="testCases.ModulePA.PA_Homepage_0002" />
+      
+</testsuite>

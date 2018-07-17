@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RFI_Form_0010"
+           tests="1"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="63.086">
+  <properties />
+            <testcase name="RFI_Form_0010Test" time="63.086" classname="testCases.ModuleRFI.RFI_Form_0010">
+                <failure type="org.openqa.selenium.TimeoutException"
+                  message="Expected condition failed: waiting for title to be &quot;RFI - Inquiry Details&quot;. Current title: &quot;Global Sources -- Inquiry Form&quot; (tried for 25 second(s) with 500 MILLISECONDS interval)
+Build info: version: &apos;unknown&apos;, revision: &apos;1969d75&apos;, time: &apos;2016-10-18 09:43:45 -0700&apos;
+System info: host: &apos;C111400215M4232&apos;, ip: &apos;192.168.87.55&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9b497413-e96b-4187-ac7a-4ad48a959a6e"
+              >
+<![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for title to be "RFI - Inquiry Details". Current title: "Global Sources -- Inquiry Form" (tried for 25 second(s) with 500 MILLISECONDS interval)
+Build info: version: 'unknown', revision: '1969d75', time: '2016-10-18 09:43:45 -0700'
+System info: host: 'C111400215M4232', ip: '192.168.87.55', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=47.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9b497413-e96b-4187-ac7a-4ad48a959a6e
+  org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+  org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:265)
+  pageObjects.InquiryForm_Page.check_RFIInqDetailsWindowIsDisplayed(InquiryForm_Page.java:261)
+  testCases.ModuleRFI.RFI_Form_0010.RFI_Form_0010Test(RFI_Form_0010.java:193)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+  java.lang.reflect.Method.invoke(Unknown Source)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+  org.testng.TestRunner.privateRun(TestRunner.java:756)
+  org.testng.TestRunner.run(TestRunner.java:610)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+  org.testng.SuiteRunner.run(SuiteRunner.java:289)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1289)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+  org.testng.TestNG.runSuites(TestNG.java:1133)
+  org.testng.TestNG.run(TestNG.java:1104)
+  org.testng.TestNG.privateMain(TestNG.java:1434)
+  org.testng.TestNG.main(TestNG.java:1403)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+  
+</testsuite>

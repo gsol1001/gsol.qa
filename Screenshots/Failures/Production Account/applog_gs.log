@@ -1,0 +1,282 @@
+2017-02-03 14:23:54,402 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:23:54,403 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:23:54,404 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:23:54,404 - rootLogger - INFO - Execution started for Suite RFI.
+2017-02-03 14:23:54,888 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:23:54,888 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:23:54,889 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:23:54,889 - rootLogger - INFO - InqFlowLI1_PdtInq_0001 : Execution started.
+2017-02-03 14:24:00,628 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:24:03,199 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:24:13,973 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:24:17,807 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:24:18,050 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:24:18,180 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:24:22,533 - rootLogger - INFO - Sub menu Edit Categories is click on the page.
+2017-02-03 14:24:24,006 - rootLogger - INFO - Is PA Edit Categories available ::true
+2017-02-03 14:24:25,836 - rootLogger - INFO - All PA Categories checkboxes is selected.
+2017-02-03 14:24:28,925 - rootLogger - INFO - Go back to GSOL home page.
+2017-02-03 14:24:29,134 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:24:30,234 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:24:30,261 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:24:30,290 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:24:33,976 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:24:34,257 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:24:38,405 - rootLogger - INFO - Selected single category are ::Promotional wallets (92)
+2017-02-03 14:24:40,954 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:24:44,305 - rootLogger - INFO - User select single verified product checkbox.
+2017-02-03 14:24:45,744 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:24:49,019 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:24:49,099 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:24:49,100 - rootLogger - INFO - InqFlowLI1_PdtInq_0001 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:24:50,115 - rootLogger - INFO - InqFlowLI1_PdtInq_0001 : Reporting test case as PASS In excel.
+ 
+2017-02-03 14:24:50,583 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:24:50,583 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:24:50,583 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:24:50,584 - rootLogger - INFO - InqFlowLI1_PdtInq_0002 : Execution started.
+2017-02-03 14:24:56,311 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:24:59,328 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:25:07,700 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:25:10,607 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:25:10,851 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:25:10,915 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:25:13,582 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:25:13,757 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:25:14,722 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:25:14,752 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:25:18,529 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:25:18,735 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:25:19,553 - rootLogger - INFO - Selected single category are ::Promotional wallets (92)
+2017-02-03 14:25:21,992 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:25:24,517 - rootLogger - INFO - User select single verified product checkbox.
+2017-02-03 14:25:27,121 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:25:30,455 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:25:30,484 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:25:30,485 - rootLogger - INFO - InqFlowLI1_PdtInq_0002 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:25:31,289 - rootLogger - INFO - InqFlowLI1_PdtInq_0002 : Reporting test case as PASS In excel.
+2017-02-03 14:25:31,613 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:25:31,613 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:25:31,614 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:25:31,614 - rootLogger - INFO - InqFlowLI1_PdtInq_0003 : Execution started.
+2017-02-03 14:25:37,023 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:25:40,590 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:25:48,613 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:25:51,987 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:25:52,079 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:25:52,187 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:25:55,083 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:25:55,225 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:25:56,073 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:25:56,092 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:26:00,926 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:26:01,107 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:26:05,064 - rootLogger - INFO - Selected single category are ::Card wallets (619)
+2017-02-03 14:26:07,148 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:26:18,957 - rootLogger - INFO - Number of selected chkbx ::28
+2017-02-03 14:26:18,958 - rootLogger - INFO - User select multiple verified product checkboxes.
+2017-02-03 14:26:18,992 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:26:27,707 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:26:27,737 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:26:27,738 - rootLogger - INFO - InqFlowLI1_PdtInq_0003 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:26:28,381 - rootLogger - INFO - InqFlowLI1_PdtInq_0003 : Reporting test case as PASS In excel.
+2017-02-03 14:26:28,642 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:26:28,643 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:26:28,643 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:26:28,643 - rootLogger - INFO - InqFlowLI1_PdtInq_0004 : Execution started.
+2017-02-03 14:26:35,430 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:26:38,304 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:26:48,856 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:26:51,229 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:26:51,446 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:26:51,575 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:26:55,006 - rootLogger - INFO - Sub menu Edit Categories is click on the page.
+2017-02-03 14:27:17,710 - rootLogger - INFO - Is PA Edit Categories available ::false
+2017-02-03 14:27:17,812 - rootLogger - INFO - User is enter text for PA Categories keyword field.
+2017-02-03 14:27:18,290 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:27:18,343 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:27:18,394 - rootLogger - INFO - Find Matching Categories button is click on the page.
+2017-02-03 14:27:18,999 - rootLogger - INFO - 1st PA Categories chkbx is selected on the page
+2017-02-03 14:27:19,089 - rootLogger - INFO - User is enter text for PA Categories keyword field.
+2017-02-03 14:27:19,415 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:27:19,466 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:27:19,518 - rootLogger - INFO - Find Matching Categories button is click on the page.
+2017-02-03 14:27:20,740 - rootLogger - INFO - 2nd PA Categories chkbx is selected on the page.
+2017-02-03 14:27:20,792 - rootLogger - INFO - Save Changes button is click on the page.
+2017-02-03 14:27:22,694 - rootLogger - INFO - Go back to GSOL home page.
+2017-02-03 14:27:25,408 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:27:26,718 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:27:26,771 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:27:26,802 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:27:30,276 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:27:30,657 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:27:34,812 - rootLogger - INFO - Selected single category are ::Promotional wallets (92)
+2017-02-03 14:27:37,280 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:27:39,335 - rootLogger - INFO - User select single verified product checkbox.
+2017-02-03 14:27:40,759 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:27:43,787 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:27:43,867 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:27:43,868 - rootLogger - INFO - InqFlowLI1_PdtInq_0004 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:27:44,533 - rootLogger - INFO - InqFlowLI1_PdtInq_0004 : Reporting test case as PASS In excel.
+2017-02-03 14:27:44,792 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:27:44,792 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:27:44,793 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:27:44,793 - rootLogger - INFO - InqFlowLI1_PdtInq_0005 : Execution started.
+2017-02-03 14:27:50,326 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:27:52,997 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:28:00,935 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:28:03,616 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:28:03,808 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:28:04,083 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:28:07,839 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:28:09,107 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:28:09,185 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:28:09,240 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:28:13,158 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:28:13,525 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:28:18,053 - rootLogger - INFO - Selected single category are ::Promotional wallets (92)
+2017-02-03 14:28:20,176 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:28:29,003 - rootLogger - INFO - Number of selected chkbx ::25
+2017-02-03 14:28:29,003 - rootLogger - INFO - User select multiple verified product checkboxes.
+2017-02-03 14:28:29,081 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:28:36,218 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:28:36,270 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:28:36,272 - rootLogger - INFO - InqFlowLI1_PdtInq_0005 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:28:36,936 - rootLogger - INFO - InqFlowLI1_PdtInq_0005 : Reporting test case as PASS In excel.
+2017-02-03 14:28:37,203 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:28:37,203 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:28:37,292 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:28:37,292 - rootLogger - INFO - InqFlowLI1_PdtInq_0006 : Execution started.
+2017-02-03 14:28:42,907 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:28:45,701 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:28:55,145 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:28:57,523 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:28:57,772 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:28:57,926 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:29:02,724 - rootLogger - INFO - Sub menu Edit Categories is click on the page.
+2017-02-03 14:29:04,205 - rootLogger - INFO - Is PA Edit Categories available ::true
+2017-02-03 14:29:06,014 - rootLogger - INFO - All PA Categories checkboxes is selected.
+2017-02-03 14:29:10,254 - rootLogger - INFO - User is enter text for PA Categories keyword field.
+2017-02-03 14:29:10,677 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:29:10,753 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:29:10,830 - rootLogger - INFO - Find Matching Categories button is click on the page.
+2017-02-03 14:29:11,534 - rootLogger - INFO - 1st PA Categories chkbx is selected on the page
+2017-02-03 14:29:11,638 - rootLogger - INFO - User is enter text for PA Categories keyword field.
+2017-02-03 14:29:11,998 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:29:12,075 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:29:12,127 - rootLogger - INFO - Find Matching Categories button is click on the page.
+2017-02-03 14:29:13,278 - rootLogger - INFO - 2nd PA Categories chkbx is selected on the page.
+2017-02-03 14:29:13,329 - rootLogger - INFO - Save Changes button is click on the page.
+2017-02-03 14:29:17,238 - rootLogger - INFO - Go back to GSOL home page.
+2017-02-03 14:29:17,390 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:29:18,594 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:29:18,645 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:29:18,696 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:29:22,532 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:29:23,075 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:29:23,894 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:29:45,543 - rootLogger - INFO - All Verified Products checkboxes are selected on the page.
+2017-02-03 14:29:45,645 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:29:57,941 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:29:57,996 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:29:57,998 - rootLogger - INFO - InqFlowLI1_PdtInq_0006 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:29:58,748 - rootLogger - INFO - InqFlowLI1_PdtInq_0006 : Reporting test case as PASS In excel.
+2017-02-03 14:29:58,990 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:29:58,990 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:29:58,991 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:29:58,991 - rootLogger - INFO - InqFlowLI1_PdtInq_0007 : Execution started.
+2017-02-03 14:30:05,153 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:30:07,952 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:30:16,330 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:30:23,247 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:30:23,548 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:30:23,675 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:30:28,247 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:30:29,453 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:30:29,531 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:30:29,608 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:30:33,419 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:30:36,682 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:30:37,501 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:30:55,459 - rootLogger - INFO - All Verified Products checkboxes are selected on the page.
+2017-02-03 14:30:55,535 - rootLogger - INFO - Inquire Now button for Verified Product is click on the page.
+2017-02-03 14:31:09,489 - rootLogger - INFO - RFI form is displayed
+2017-02-03 14:31:09,543 - rootLogger - INFO - Go back to Global Sources Home Page
+2017-02-03 14:31:09,544 - rootLogger - INFO - InqFlowLI1_PdtInq_0007 : Reporting test data set line 1 as PASS In excel.
+2017-02-03 14:31:10,170 - rootLogger - INFO - InqFlowLI1_PdtInq_0007 : Reporting test case as PASS In excel.
+2017-02-03 14:31:10,625 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:31:10,625 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:31:10,625 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:31:10,625 - rootLogger - INFO - InqFlowLI1_PdtInq_0008 : Execution started.
+2017-02-03 14:31:10,625 - rootLogger - INFO - InqFlowLI1_PdtInq_0008 : CaseToRun = N for So Skipping Execution.
+2017-02-03 14:31:10,999 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:31:10,999 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:31:10,999 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:31:10,999 - rootLogger - INFO - InqFlowLI1_PdtInq_0009 : Execution started.
+2017-02-03 14:31:11,000 - rootLogger - INFO - InqFlowLI1_PdtInq_0009 : CaseToRun = N for So Skipping Execution.
+2017-02-03 14:31:11,456 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:31:11,457 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:31:11,457 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:31:11,457 - rootLogger - INFO - InqFlowLI1_PdtInq_0010 : Execution started.
+2017-02-03 14:31:15,994 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:31:19,637 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:31:27,974 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:31:31,185 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:31:31,546 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:31:31,860 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:31:36,682 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:31:39,172 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:31:39,223 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:31:39,356 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:31:45,790 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:31:46,378 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:32:11,685 - rootLogger - ERROR - Unverified Product Name link is NOT found on the page.
+2017-02-03 14:32:14,841 - rootLogger - INFO - InqFlowLI1_PdtInq_0010 : Reporting test data set line 1 as FAIL In excel.
+2017-02-03 14:32:15,556 - rootLogger - INFO - InqFlowLI1_PdtInq_0010 : Reporting test case as FAIL In excel.
+2017-02-03 14:32:15,857 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:32:15,857 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:32:15,857 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:32:15,858 - rootLogger - INFO - InqFlowLI1_PdtInq_0011 : Execution started.
+2017-02-03 14:32:21,173 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:32:24,782 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:32:32,605 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:32:35,272 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:32:35,364 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:32:35,422 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:32:38,479 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:32:38,626 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:32:39,363 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:32:39,383 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:32:46,756 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:32:46,928 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:33:10,808 - rootLogger - ERROR - Unverified Product Name link is NOT found on the page.
+2017-02-03 14:33:14,075 - rootLogger - INFO - InqFlowLI1_PdtInq_0011 : Reporting test data set line 1 as FAIL In excel.
+2017-02-03 14:33:14,886 - rootLogger - INFO - InqFlowLI1_PdtInq_0011 : Reporting test case as FAIL In excel.
+2017-02-03 14:33:15,131 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:33:15,132 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:33:15,132 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:33:15,132 - rootLogger - INFO - InqFlowLI1_PdtInq_0012 : Execution started.
+2017-02-03 14:33:20,424 - rootLogger - INFO - Firefox Driver Instance loaded successfully.
+2017-02-03 14:33:23,348 - rootLogger - INFO - Global Sources Web application launched successfully
+2017-02-03 14:33:31,610 - rootLogger - INFO - Login button is click on the page.
+2017-02-03 14:33:34,272 - rootLogger - INFO - User is enter text for Username field.
+2017-02-03 14:33:34,763 - rootLogger - INFO - User is enter text for Password field.
+2017-02-03 14:33:34,890 - rootLogger - INFO - User is click on Login Now button.
+2017-02-03 14:33:40,455 - rootLogger - INFO - User is enter text for GSOL search keyword field.
+2017-02-03 14:33:42,726 - rootLogger - INFO - Is Search btn displayed ::true
+2017-02-03 14:33:42,802 - rootLogger - INFO - Is Search btn enabled ::true
+2017-02-03 14:33:42,879 - rootLogger - INFO - User is click on the Search button.
+2017-02-03 14:33:47,788 - rootLogger - INFO - Is Help Tour overlay displayed ::true
+2017-02-03 14:33:48,073 - rootLogger - INFO - Help Tour overlay is closed.
+2017-02-03 14:33:52,842 - rootLogger - INFO - Supplier List tab is click on the page.
+2017-02-03 14:34:15,532 - rootLogger - ERROR - First unverified product checkbox is NOT found on the page.
+2017-02-03 14:34:18,696 - rootLogger - INFO - InqFlowLI1_PdtInq_0012 : Reporting test data set line 1 as FAIL In excel.
+2017-02-03 14:34:19,300 - rootLogger - INFO - InqFlowLI1_PdtInq_0012 : Reporting test case as FAIL In excel.
+2017-02-03 14:34:19,605 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:34:19,605 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:34:19,606 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:34:19,606 - rootLogger - INFO - InqFlowLI1_PdtInq_0013 : Execution started.
+2017-02-03 14:35:06,547 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-02-03 14:35:06,547 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-02-03 14:35:06,548 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-02-03 14:35:06,548 - rootLogger - INFO - InqFlowLI1_SuppInq_0001 : Execution started.

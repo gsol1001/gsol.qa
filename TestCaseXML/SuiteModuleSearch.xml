@@ -1,0 +1,207 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module Search">
+
+<!-- Add more test cases In this suite. -->
+
+	<test name = "ProductSearch_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.ProductSearch_0001" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<!-- Start of Product Advance Search. -->
+					
+	<test name = "ProductAdvSearch_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.ProductAdvSearch_0001" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductAdvSearch_0002">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.ProductAdvSearch_0002" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductAdvSearch_0003">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.ProductAdvSearch_0003" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductAdvSearch_0004">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.ProductAdvSearch_0004" ></class>  
+	    </classes>
+	</test>
+						
+	<test name = "ProductAdvSearch_0005">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.ProductAdvSearch_0005" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<!-- Start of Supplier Advance Search. -->	
+						
+	<test name = "SuppAdvSearch_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0001" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "SuppAdvSearch_0002">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0002" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "SuppAdvSearch_0003">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0003" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "SuppAdvSearch_0004">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0004" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "SuppAdvSearch_0005">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0005" ></class>  
+	    </classes>
+	</test>
+								
+	<test name = "SuppAdvSearch_0006">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0006" ></class>  
+	    </classes>
+	</test>
+								
+	<test name = "SuppAdvSearch_0007">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0007" ></class>  
+	    </classes>
+	</test>
+								
+	<test name = "SuppAdvSearch_0008">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0008" ></class>  
+	    </classes>
+	</test>
+								
+	<test name = "SuppAdvSearch_0009">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0009" ></class>  
+	    </classes>
+	</test>
+								
+	<test name = "SuppAdvSearch_0010">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0010" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "SuppAdvSearch_0011">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0011" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "SuppAdvSearch_0012">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0012" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "SuppAdvSearch_0013">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0013" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "SuppAdvSearch_0014">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0014" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "SuppAdvSearch_0015">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.SuppAdvSearch_0015" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<!-- Start of News Advance Search. -->	
+						
+	<test name = "NewsAdvSearch_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.NewsAdvSearch_0001" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "NewsAdvSearch_0002">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.NewsAdvSearch_0002" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "NewsAdvSearch_0003">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.NewsAdvSearch_0003" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "NewsAdvSearch_0004">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.NewsAdvSearch_0004" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "NewsAdvSearch_0005">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.NewsAdvSearch_0005" ></class>  
+	    </classes>
+	</test>
+	
+	
+	<!-- Start of Advance Search within Result. -->	
+						
+	<test name = "AdvanceSearch_0001">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.AdvanceSearch_0001" ></class>  
+	    </classes>
+	</test>
+							
+	<test name = "AdvanceSearch_0002">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.AdvanceSearch_0002" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "AdvanceSearch_0003">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.AdvanceSearch_0003" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "AdvanceSearch_0004">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.AdvanceSearch_0004" ></class>  
+	    </classes>
+	</test>
+									
+	<test name = "AdvanceSearch_0005">
+	    <classes>
+	        <class name = "testCases.ModuleSearch.AdvanceSearch_0005" ></class>  
+	    </classes>
+	</test>
+										
+</suite>
+
+

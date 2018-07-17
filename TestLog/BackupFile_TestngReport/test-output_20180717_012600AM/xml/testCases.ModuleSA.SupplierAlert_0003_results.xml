@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SupplierAlert_0003"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="5"
+           time="0.000">
+  <properties />
+  
+            <testcase name="closeBrowser" time="0.0" classname="testCases.ModuleSA.SupplierAlert_0003">
+          <skipped />
+    </testcase>
+            <testcase name="beforeMethod" time="0.0" classname="testCases.ModuleSA.SupplierAlert_0003">
+          <skipped />
+    </testcase>
+            <testcase name="reporterDataResults" time="0.0" classname="testCases.ModuleSA.SupplierAlert_0003">
+          <skipped />
+    </testcase>
+            <testcase name="checkCaseToRun" time="0.0" classname="testCases.ModuleSA.SupplierAlert_0003">
+          <skipped />
+    </testcase>
+            <testcase name="SupplierAlert_0003Test" time="0.0" classname="testCases.ModuleSA.SupplierAlert_0003">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

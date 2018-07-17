@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="eGSOL Suite">
+	
+	<listeners> 
+		<listener class-name="utility.ScreenshotUtility"></listener> 
+		<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+ 	</listeners>
+ 	
+	<suite-files>
+		
+		<suite-file path="./TestCaseXML/SuiteModuleRFI.xml" />
+		<suite-file path="./TestCaseXML/SuiteModulePA.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleReg.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleUserAcc.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleNavBar.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleeMag.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleSA.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleSearch.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleBug.xml" />
+		<suite-file path="./TestCaseXML/SuiteModulePP.xml" />
+		<suite-file path="./TestCaseXML/SuiteModuleSP.xml" />
+		
+  	</suite-files>
+  
+</suite>

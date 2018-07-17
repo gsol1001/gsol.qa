@@ -1,0 +1,6 @@
+/appModules/
+/applog.log
+/log4j.properties
+/pageObjects/
+/testCases/
+/utility/

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PA_EditCategories_0001"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="79.307">
+  <properties />
+  
+  
+            <testcase name="PA_EditCategories_0001Test" time="79.307" classname="testCases.ModulePA.PA_EditCategories_0001" />
+      
+</testsuite>

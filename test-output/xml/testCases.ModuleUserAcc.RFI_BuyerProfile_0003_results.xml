@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RFI_BuyerProfile_0003"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="61.374">
+  <properties />
+  
+  
+            <testcase name="RFI_BuyerProfile_0003Test" time="61.374" classname="testCases.ModuleUserAcc.RFI_BuyerProfile_0003" />
+      
+</testsuite>

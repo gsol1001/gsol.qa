@@ -1,0 +1,52 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module Refactor">
+
+<!-- Add more test cases In this suite. -->
+
+	<test name = "Refactor_0001">
+	    <classes>
+	        <class name = "testCases.ModuleRefactor.Refactor_0001" ></class>  
+	    </classes>
+	</test>	
+	
+	<test name = "Refactor_0003">
+		<classes>
+			<class name = "testCases.ModuleRefactor.Refactor_0003" ></class>
+		</classes>
+	</test>
+	
+	<test name = "Refactor_0004">
+		<classes>
+			<class name = "testCases.ModuleRefactor.Refactor_0004" ></class>
+		</classes>
+	</test>
+	
+	<test name = "Refactor_0005">
+		<classes>
+			<class name = "testCases.ModuleRefactor.Refactor_0005" ></class>
+		</classes>
+	</test>
+	
+	<test name = "Refactor_0006">
+		<classes>
+			<class name = "testCases.ModuleRefactor.Refactor_0006" ></class>
+		</classes>
+	</test>	
+	
+	<test name = "Refactor_0007">
+		<classes>
+			<class name = "testCases.ModuleRefactor.Refactor_0007" ></class>
+		</classes>
+	</test>
+	
+	<test name = "Refactor_0008">
+		<classes>
+			<class name = "testCases.ModuleRefactor.Refactor_0008" ></class>
+		</classes>
+	</test>
+	
+							
+</suite>
+
+

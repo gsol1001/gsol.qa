@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SupplierProfile_0013"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="42.027">
+  <properties />
+  
+  
+            <testcase name="SupplierProfile_0013Test" time="42.027" classname="testCases.ModuleSP.SupplierProfile_0013" />
+      
+</testsuite>

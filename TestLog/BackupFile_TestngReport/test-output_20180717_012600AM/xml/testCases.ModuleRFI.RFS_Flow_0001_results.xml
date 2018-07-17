@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RFS_Flow_0001"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="65.212">
+  <properties />
+  
+  
+            <testcase name="RFS_Flow_0001Test" time="65.212" classname="testCases.ModuleRFI.RFS_Flow_0001" />
+      
+</testsuite>

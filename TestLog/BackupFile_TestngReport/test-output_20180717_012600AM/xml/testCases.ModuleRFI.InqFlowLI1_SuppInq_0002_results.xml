@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InqFlowLI1_SuppInq_0002"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="49.560">
+  <properties />
+  
+  
+            <testcase name="InqFlowLI1_SuppInq_0002Test" time="49.560" classname="testCases.ModuleRFI.InqFlowLI1_SuppInq_0002" />
+      
+</testsuite>

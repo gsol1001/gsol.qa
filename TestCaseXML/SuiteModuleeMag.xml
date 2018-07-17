@@ -1,0 +1,108 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Module eMag">
+
+<!-- Add more test cases In this suite. -->
+
+	<test name = "eMagLite_0001">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagLite_0001" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "eMagLite_0002">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagLite_0002" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "eMagLite_0003">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagLite_0003" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "eMagLite_0004">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagLite_0004" ></class>  
+	    </classes>
+	</test>
+
+
+	<test name = "eMagSubscription_0001">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagSubscription_0001" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "eMagSubscription_0002">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagSubscription_0002" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "eMagSubscription_0003">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagSubscription_0003" ></class>  
+	    </classes>
+	</test>
+
+	<test name = "eMagSubscription_0004">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagSubscription_0004" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "eMagSubscription_0005">
+		<classes>
+			<class name = "testCases.ModuleeMag.eMagSubscription_0005"></class>
+		</classes>
+	</test>
+	
+	<test name = "eMagSubscription_0006">
+		<classes>
+			<class name = "testCases.ModuleeMag.eMagSubscription_0006"></class>
+		</classes>
+	</test>
+	
+	<test name = "eMagSubscription_0007">
+		<classes>
+			<class name = "testCases.ModuleeMag.eMagSubscription_0007"></class>
+		</classes>
+	</test>
+	
+	<test name = "eMagSubscription_0008">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagSubscription_0008" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "eMagSubscription_0009">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagSubscription_0009" ></class>  
+	    </classes>
+	</test>
+	
+	<test name = "eMagSubscription_0010">
+		<classes>
+			<class name = "testCases.ModuleeMag.eMagSubscription_0010"></class>
+		</classes>
+	</test>
+	
+	<test name = "eMagSubscription_0011">
+		<classes>
+			<class name = "testCases.ModuleeMag.eMagSubscription_0011"></class>
+		</classes>
+	</test>
+	
+	
+	<test name = "eMagUpgrade_0001">
+	    <classes>
+	        <class name = "testCases.ModuleeMag.eMagUpgrade_0001" ></class>  
+	    </classes>
+	</test>
+	
+
+</suite>
+
+

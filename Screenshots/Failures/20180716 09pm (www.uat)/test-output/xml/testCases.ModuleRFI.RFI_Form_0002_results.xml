@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RFI_Form_0002"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="41.332">
+  <properties />
+  
+  
+            <testcase name="RFI_Form_0002Test" time="41.332" classname="testCases.ModuleRFI.RFI_Form_0002" />
+      
+</testsuite>

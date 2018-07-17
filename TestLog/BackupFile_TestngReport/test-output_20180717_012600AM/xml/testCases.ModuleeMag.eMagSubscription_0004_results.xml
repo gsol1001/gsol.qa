@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eMagSubscription_0004"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="282.315">
+  <properties />
+  
+  
+            <testcase name="eMagSubscription_0004Test" time="282.315" classname="testCases.ModuleeMag.eMagSubscription_0004" />
+      
+</testsuite>
